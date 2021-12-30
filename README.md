@@ -31,7 +31,5 @@ Here are some ideas to get you started:
 <code> <img width = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL" /> </code>
 <code> <img width = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID" /> </code>
    
-
-
   
 
