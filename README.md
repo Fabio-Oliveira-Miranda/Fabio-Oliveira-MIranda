@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
    Oiii eu sou Fábio Miranda , desenvolvedor software !
-   
+   Proativo, ambicioso, interessado em realizar projetos que façam a diferença na sociedade
 <div align = "center">
   <a href="https://github.com/Fabio-Oliveira-MIranda">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Fabio-Oliveira-MIranda&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
